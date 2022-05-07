@@ -12,6 +12,10 @@ img=cv2.imread("resim1.jpg",-1)
 
 
 
+
+
+
+
 # resimin oranını bozmadan küçültmek için kullanılır.
 img=cv2.resize(img,(0,0),fx=0.1,fy=0.1)
 
